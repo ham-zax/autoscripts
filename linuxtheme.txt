@@ -1,0 +1,7 @@
+for bash theme
+oh-my-bash'
+
+OSH_THEME="powerbash10k"
+
+for terminal theme 
+https://gogh-co.github.io/Gogh/
